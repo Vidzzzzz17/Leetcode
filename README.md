@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
+| [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
+| [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -65,10 +67,12 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0029-divide-two-integers) |
+| [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +81,16 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
