@@ -7,6 +7,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
+| [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,11 +17,13 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
+| [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
