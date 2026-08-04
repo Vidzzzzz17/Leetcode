@@ -32,6 +32,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,11 +48,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,4 +101,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
