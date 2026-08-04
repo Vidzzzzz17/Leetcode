@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0031-next-permutation) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -13,6 +14,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
