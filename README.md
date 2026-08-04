@@ -7,6 +7,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
