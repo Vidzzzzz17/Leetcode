@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0039-combination-sum) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -45,6 +46,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0039-combination-sum) |
 ## Linked List
 |  |
 | ------- |
