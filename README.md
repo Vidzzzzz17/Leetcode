@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -58,6 +59,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Bracket Sequences
 |  |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
