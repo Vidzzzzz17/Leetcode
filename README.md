@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
@@ -34,6 +35,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0041-first-missing-positive) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## String
 |  |
