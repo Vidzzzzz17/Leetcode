@@ -41,6 +41,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Bracket Sequences
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
@@ -148,5 +151,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
