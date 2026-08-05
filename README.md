@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -26,6 +27,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
