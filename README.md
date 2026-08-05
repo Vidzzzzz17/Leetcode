@@ -41,6 +41,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 ## Backtracking
 |  |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
@@ -153,4 +155,8 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
