@@ -38,6 +38,7 @@
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0038-count-and-say) |
 ## Backtracking
 |  |
 | ------- |
