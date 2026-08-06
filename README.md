@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -157,6 +159,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0048-rotate-image) |
 ## Algorithm X
 |  |
 | ------- |
