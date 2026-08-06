@@ -21,6 +21,7 @@
 | [0051-n-queens](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Bracket Sequences
 |  |
@@ -188,6 +190,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
