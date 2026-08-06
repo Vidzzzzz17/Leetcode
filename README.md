@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -37,6 +39,7 @@
 | [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -48,6 +51,7 @@
 | [0038-count-and-say](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
