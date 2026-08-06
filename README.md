@@ -18,6 +18,7 @@
 | [0047-permutations-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -55,6 +56,7 @@
 | [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
 ## Backtracking
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
 ## Monotonic Stack
 |  |
 | ------- |
