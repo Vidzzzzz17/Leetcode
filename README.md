@@ -102,6 +102,7 @@
 | [0029-divide-two-integers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +170,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
