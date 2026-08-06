@@ -26,6 +26,7 @@
 | [0057-insert-interval](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
@@ -97,6 +98,7 @@
 | [0055-jump-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Bracket Sequences
 |  |
@@ -189,6 +191,7 @@
 | [0054-spiral-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0064-minimum-path-sum) |
 ## Algorithm X
 |  |
 | ------- |
