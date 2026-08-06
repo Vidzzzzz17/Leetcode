@@ -23,6 +23,7 @@
 | [0054-spiral-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
