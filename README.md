@@ -121,6 +121,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
@@ -129,6 +130,7 @@
 | [0043-multiply-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
