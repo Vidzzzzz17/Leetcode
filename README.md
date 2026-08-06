@@ -35,6 +35,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0061-rotate-list) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
 | ------- |
