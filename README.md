@@ -28,6 +28,7 @@
 | [0063-unique-paths-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0074-search-a-2d-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0059-spiral-matrix-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
 |  |
 | ------- |
