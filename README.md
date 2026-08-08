@@ -38,6 +38,7 @@
 | [0031-next-permutation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0061-rotate-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -103,6 +105,7 @@
 | [0063-unique-paths-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0055-jump-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
