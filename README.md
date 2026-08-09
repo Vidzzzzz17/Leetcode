@@ -44,6 +44,7 @@
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@
 | [0071-simplify-path](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -291,10 +294,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -303,4 +308,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
+## Palindromic Tree
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 <!---LeetCode Topics End-->
