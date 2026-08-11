@@ -31,6 +31,7 @@
 | [0073-set-matrix-zeroes](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
@@ -45,6 +46,7 @@
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
