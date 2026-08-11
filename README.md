@@ -69,6 +69,7 @@
 | [0041-first-missing-positive](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0076-minimum-window-substring) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## String
@@ -86,6 +87,7 @@
 | [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0076-minimum-window-substring) |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0076-minimum-window-substring) |
 ## Minimax
 |  |
 | ------- |
