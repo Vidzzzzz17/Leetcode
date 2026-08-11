@@ -34,6 +34,7 @@
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@
 | [0041-first-missing-positive](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0073-set-matrix-zeroes) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## String
 |  |
