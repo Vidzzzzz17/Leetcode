@@ -37,6 +37,7 @@
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
@@ -182,6 +183,7 @@
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -203,6 +205,7 @@
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -218,6 +222,7 @@
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -271,6 +276,7 @@
 | [0044-wildcard-matching](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0055-jump-game) |
+| [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
@@ -345,6 +351,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -357,4 +364,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0292-nim-game) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
