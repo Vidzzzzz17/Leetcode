@@ -38,6 +38,7 @@
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
@@ -96,6 +97,7 @@
 | [0079-word-search](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -368,4 +370,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
