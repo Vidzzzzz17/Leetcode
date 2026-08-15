@@ -35,6 +35,7 @@
 | [0079-word-search](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
@@ -140,6 +141,7 @@
 | [0063-unique-paths-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
@@ -237,6 +239,7 @@
 | [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 | [0073-set-matrix-zeroes](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -299,6 +303,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
 ## Enumeration
 |  |
 | ------- |
