@@ -1,12 +1,11 @@
-from typing import List
-
 class Solution:
-    def stoneGameIX(self, stones: List[int]) -> bool:
-        cnt = [0, 0, 0]
-        for s in stones:
-            cnt[s % 3] += 1
+    def stoneGameIX(self, stones: list[int]) -> bool:
+        c0 = sum(1 for x in stones if x % 3 == 0)
+        c1 = sum(1 for x in stones if x % 3 == 1)
+        c2 = sum(1 for x in stones if x % 3 == 2)
         
-        if cnt[0] % 2 == 0:
-            return cnt[1] > 0 and cnt[2] > 0
-        else:
-            return abs(cnt[1] - cnt[2]) > 2
+        if c0 % 2 == 0:
+            return c1 >= 1 and c2 >= 1
+        
+        return abs(c1 - c2) > 2
+        
