@@ -37,6 +37,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
@@ -130,6 +131,7 @@
 | [0077-combinations](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -214,6 +216,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
