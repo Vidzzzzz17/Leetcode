@@ -45,6 +45,7 @@
 | [1872-stone-game-viii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -74,6 +75,7 @@
 | [0049-group-anagrams](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -438,4 +440,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0084-largest-rectangle-in-histogram) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
