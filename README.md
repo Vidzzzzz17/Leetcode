@@ -148,6 +148,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0061-rotate-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
 |  |
 | ------- |
