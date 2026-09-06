@@ -120,6 +120,7 @@
 | [0072-edit-distance](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
 | [1927-sum-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1927-sum-game) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
@@ -169,6 +170,7 @@
 | [0064-minimum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
