@@ -139,6 +139,7 @@
 | [0115-distinct-subsequences](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0940-distinct-subsequences-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0032-longest-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -326,6 +328,7 @@
 | [0071-simplify-path](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
