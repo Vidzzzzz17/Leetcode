@@ -1,20 +1,24 @@
+from typing import List
+
 class Solution:
-    def generateParenthesis(self, n: int) -> list[str]:
+    def generateParenthesis(self, n: int) -> List[str]:
         result = []
-        
-        def backtrack(current_str, open_count, close_count):
-            # Base Case: complete combination found
-            if len(current_str) == 2 * n:
-                result.append(current_str)
+        current = []
+
+        def backtrack(open_count: int, close_count: int) -> None:
+            if len(current) == 2 * n:
+                result.append("".join(current))
                 return
-            
-            # Can we add an open parenthesis?
+
             if open_count < n:
-                backtrack(current_str + "(", open_count + 1, close_count)
-                
-            # Can we add a close parenthesis?
+                current.append("(")
+                backtrack(open_count + 1, close_count)
+                current.pop()
+
             if close_count < open_count:
-                backtrack(current_str + ")", open_count, close_count + 1)
-                
-        backtrack("", 0, 0)
+                current.append(")")
+                backtrack(open_count, close_count + 1)
+                current.pop()
+
+        backtrack(0, 0)
         return result
