@@ -222,6 +222,7 @@
 | [0087-scramble-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
@@ -288,6 +289,7 @@
 | [0060-permutation-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
@@ -581,6 +583,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -589,6 +592,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -601,5 +605,6 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
