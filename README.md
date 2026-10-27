@@ -39,6 +39,7 @@
 | [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
@@ -270,6 +271,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
@@ -622,6 +624,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -641,6 +644,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -660,6 +664,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Indexed Tree
