@@ -414,6 +414,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -422,6 +423,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -608,6 +610,7 @@
 | [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -620,6 +623,7 @@
 | [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
