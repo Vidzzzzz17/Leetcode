@@ -188,6 +188,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0023-merge-k-sorted-lists) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -452,6 +454,7 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -696,4 +699,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
