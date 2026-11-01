@@ -42,6 +42,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
@@ -319,6 +320,7 @@
 | [0089-gray-code](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
