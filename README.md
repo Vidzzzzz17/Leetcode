@@ -224,6 +224,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
 |  |
@@ -441,6 +442,7 @@
 | [0112-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -453,6 +455,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -655,6 +658,7 @@
 | [0112-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -678,6 +682,7 @@
 | [0112-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
