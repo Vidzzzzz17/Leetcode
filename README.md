@@ -44,6 +44,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
@@ -253,6 +254,7 @@
 | [0115-distinct-subsequences](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
