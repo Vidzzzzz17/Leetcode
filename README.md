@@ -47,6 +47,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0128-longest-consecutive-sequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
@@ -134,6 +135,7 @@
 | [0076-minimum-window-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0128-longest-consecutive-sequence) |
 | [1386-cinema-seat-allocation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -652,6 +654,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0128-longest-consecutive-sequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
