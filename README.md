@@ -84,6 +84,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -357,6 +358,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3876-construct-uniform-parity-array-ii) |
