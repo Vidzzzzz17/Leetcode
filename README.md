@@ -166,6 +166,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
+| [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
 | [1386-cinema-seat-allocation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -392,6 +393,7 @@
 | [0478-generate-random-point-in-a-circle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
@@ -849,6 +851,7 @@
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -951,4 +954,5 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
 <!---LeetCode Topics End-->
