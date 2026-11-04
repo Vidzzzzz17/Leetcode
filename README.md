@@ -197,6 +197,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
 | [0678-valid-parenthesis-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0678-valid-parenthesis-string) |
+| [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
 | [0856-score-of-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0940-distinct-subsequences-ii) |
@@ -494,6 +495,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
 | [1192-critical-connections-in-a-network](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1192-critical-connections-in-a-network) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -518,6 +520,7 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
 | [1192-critical-connections-in-a-network](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
@@ -855,12 +858,18 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
 ## Eulerian Path
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
 ## Semi-Eulerian Graph
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Graph
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
