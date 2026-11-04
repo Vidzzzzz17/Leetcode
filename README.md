@@ -66,6 +66,7 @@
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
@@ -115,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
+| [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -133,6 +135,7 @@
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -305,6 +308,7 @@
 | [1510-stone-game-iv](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 | [1872-stone-game-viii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -414,6 +418,7 @@
 | [0137-single-number-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0137-single-number-ii) |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
 | [1386-cinema-seat-allocation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1386-cinema-seat-allocation) |
+| [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -901,10 +906,12 @@
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
 | [0956-tallest-billboard](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0956-tallest-billboard) |
+| [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 ## Bitmask
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
+| [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
