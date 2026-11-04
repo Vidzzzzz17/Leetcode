@@ -50,6 +50,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0137-single-number-ii) |
+| [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
@@ -120,6 +121,7 @@
 | [0056-merge-intervals](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -821,4 +823,16 @@
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
