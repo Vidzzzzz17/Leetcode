@@ -67,6 +67,7 @@
 | [1872-stone-game-viii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2097-valid-arrangement-of-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2097-valid-arrangement-of-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -498,6 +499,7 @@
 | [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
 | [1192-critical-connections-in-a-network](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1192-critical-connections-in-a-network) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [2097-valid-arrangement-of-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2097-valid-arrangement-of-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -523,6 +525,7 @@
 | [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
 | [1192-critical-connections-in-a-network](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [2097-valid-arrangement-of-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2097-valid-arrangement-of-pairs) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
@@ -859,15 +862,18 @@
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
+| [2097-valid-arrangement-of-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2097-valid-arrangement-of-pairs) |
 ## Eulerian Path
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
+| [2097-valid-arrangement-of-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2097-valid-arrangement-of-pairs) |
 ## Semi-Eulerian Graph
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
+| [2097-valid-arrangement-of-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2097-valid-arrangement-of-pairs) |
 ## Eulerian Graph
 |  |
 | ------- |
