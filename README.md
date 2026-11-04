@@ -120,6 +120,7 @@
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -502,6 +503,7 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1192-critical-connections-in-a-network) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
@@ -677,6 +679,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0128-longest-consecutive-sequence) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
@@ -789,4 +792,24 @@
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0478-generate-random-point-in-a-circle) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
