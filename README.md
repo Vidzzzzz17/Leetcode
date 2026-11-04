@@ -58,6 +58,7 @@
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -482,6 +483,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0145-binary-tree-postorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1192-critical-connections-in-a-network) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -497,6 +499,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0301-remove-invalid-parentheses) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -521,6 +524,7 @@
 | [0079-word-search](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0835-image-overlap) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3665-twisted-mirror-path-count) |
@@ -800,6 +804,7 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Prim's Algorithm
 |  |
 | ------- |
@@ -812,4 +817,8 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
