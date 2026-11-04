@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0033-search-in-rotated-sorted-array) |
@@ -126,6 +127,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0036-valid-sudoku) |
