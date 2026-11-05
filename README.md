@@ -328,6 +328,7 @@
 | [0678-valid-parenthesis-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0678-valid-parenthesis-string) |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0956-tallest-billboard) |
@@ -425,6 +426,7 @@
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
+| [0837-new-21-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1227-airplane-seat-assignment-probability) |
@@ -473,6 +475,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0220-contains-duplicate-iii) |
+| [0837-new-21-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0837-new-21-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1024,5 +1027,6 @@
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0837-new-21-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
