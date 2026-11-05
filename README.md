@@ -64,6 +64,7 @@
 | [0956-tallest-billboard](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0956-tallest-billboard) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1036-escape-a-large-maze](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1036-escape-a-large-maze) |
+| [1051-height-checker](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -142,6 +143,7 @@
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1051-height-checker) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
@@ -673,6 +675,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1051-height-checker) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -944,6 +947,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1051-height-checker) |
 ## Meet in the Middle
 |  |
 | ------- |
