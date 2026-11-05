@@ -332,6 +332,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0956-tallest-billboard) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
+| [1227-airplane-seat-assignment-probability](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1227-airplane-seat-assignment-probability) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -426,6 +427,7 @@
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
+| [1227-airplane-seat-assignment-probability](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1227-airplane-seat-assignment-probability) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -751,6 +753,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0292-nim-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1227-airplane-seat-assignment-probability) |
 ## Impartial Game
 |  |
 | ------- |
@@ -1021,4 +1024,5 @@
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0808-soup-servings) |
+| [1227-airplane-seat-assignment-probability](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
