@@ -147,6 +147,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
+| [1859-sorting-the-sentence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1859-sorting-the-sentence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -232,6 +233,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1859-sorting-the-sentence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1927-sum-game) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -676,6 +678,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1859-sorting-the-sentence) |
 ## Prefix Sum
 |  |
 | ------- |
