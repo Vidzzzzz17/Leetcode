@@ -62,6 +62,7 @@
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 | [0956-tallest-billboard](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0956-tallest-billboard) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1036-escape-a-large-maze](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1036-escape-a-large-maze) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -169,6 +170,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
 | [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
+| [1036-escape-a-large-maze](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1036-escape-a-large-maze) |
 | [1386-cinema-seat-allocation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -535,6 +537,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
 | [0753-cracking-the-safe](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0753-cracking-the-safe) |
+| [1036-escape-a-large-maze](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1036-escape-a-large-maze) |
 | [1192-critical-connections-in-a-network](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1192-critical-connections-in-a-network) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2097-valid-arrangement-of-pairs](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2097-valid-arrangement-of-pairs) |
@@ -553,6 +556,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0301-remove-invalid-parentheses) |
+| [1036-escape-a-large-maze](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1036-escape-a-large-maze) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3310-remove-methods-from-project](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -964,4 +968,8 @@
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
+## Bidirectional Search
+|  |
+| ------- |
+| [1036-escape-a-large-maze](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1036-escape-a-large-maze) |
 <!---LeetCode Topics End-->
