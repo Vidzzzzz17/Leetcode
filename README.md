@@ -327,6 +327,7 @@
 | [0486-predict-the-winner](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0678-valid-parenthesis-string) |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
+| [0808-soup-servings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0956-tallest-billboard) |
@@ -421,6 +422,7 @@
 | [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0523-continuous-subarray-sum) |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
+| [0808-soup-servings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
@@ -1015,4 +1017,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0692-top-k-frequent-words) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
