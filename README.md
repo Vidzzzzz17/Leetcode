@@ -63,6 +63,7 @@
 | [0692-top-k-frequent-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0692-top-k-frequent-words) |
 | [0805-split-array-with-same-average](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0805-split-array-with-same-average) |
 | [0835-image-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0835-image-overlap) |
+| [0850-rectangle-area-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0850-rectangle-area-ii) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 | [0956-tallest-billboard](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0956-tallest-billboard) |
@@ -777,6 +778,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0850-rectangle-area-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0850-rectangle-area-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3525-find-x-value-of-array-ii) |
@@ -785,6 +787,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0220-contains-duplicate-iii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0850-rectangle-area-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0850-rectangle-area-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Range Minimum/Maximum Query
@@ -1041,4 +1044,5 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0391-perfect-rectangle) |
+| [0850-rectangle-area-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
