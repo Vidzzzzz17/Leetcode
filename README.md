@@ -68,6 +68,7 @@
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 | [0956-tallest-billboard](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0956-tallest-billboard) |
+| [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1036-escape-a-large-maze](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1036-escape-a-large-maze) |
 | [1051-height-checker](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1051-height-checker) |
@@ -154,6 +155,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1051-height-checker) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -385,6 +387,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Heap (Priority Queue)
@@ -395,6 +398,7 @@
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
 | [0692-top-k-frequent-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -442,6 +446,7 @@
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1227-airplane-seat-assignment-probability) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -870,6 +875,7 @@
 | [0391-perfect-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Binary Search Tree
 |  |
@@ -974,6 +980,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Eulerian Circuit
 |  |
@@ -1055,4 +1062,8 @@
 | [0391-perfect-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0391-perfect-rectangle) |
 | [0850-rectangle-area-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0850-rectangle-area-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
