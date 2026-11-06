@@ -82,6 +82,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1872-stone-game-viii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1872-stone-game-viii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -162,6 +163,7 @@
 | [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1859-sorting-the-sentence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1859-sorting-the-sentence) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2747-count-zero-request-servers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2747-count-zero-request-servers) |
@@ -257,6 +259,7 @@
 | [1927-sum-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1927-sum-game) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -389,6 +392,7 @@
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Heap (Priority Queue)
 |  |
@@ -400,6 +404,7 @@
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
@@ -981,6 +986,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Eulerian Circuit
 |  |
