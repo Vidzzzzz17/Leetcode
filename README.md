@@ -78,6 +78,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1872-stone-game-viii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -155,6 +156,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1859-sorting-the-sentence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1859-sorting-the-sentence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -389,6 +391,7 @@
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
 | [0692-top-k-frequent-words](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
@@ -552,6 +555,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1045,4 +1049,5 @@
 | ------- |
 | [0391-perfect-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0391-perfect-rectangle) |
 | [0850-rectangle-area-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0850-rectangle-area-ii) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
