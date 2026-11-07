@@ -82,6 +82,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1872-stone-game-viii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -404,6 +405,7 @@
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1882-process-tasks-using-servers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
