@@ -253,6 +253,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1021-remove-outermost-parentheses) |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -508,6 +509,7 @@
 | [0220-contains-duplicate-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0220-contains-duplicate-iii) |
 | [0837-new-21-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0837-new-21-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2747-count-zero-request-servers) |
@@ -574,6 +576,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0287-find-the-duplicate-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -752,6 +755,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## String Matching
 |  |
@@ -761,6 +765,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Manacher
 |  |
@@ -771,6 +776,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -1086,4 +1092,20 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
