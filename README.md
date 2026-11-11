@@ -50,6 +50,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0215-kth-largest-element-in-an-array) |
@@ -197,6 +198,7 @@
 | [0141-linked-list-cycle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0202-happy-number) |
 | [0391-perfect-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0391-perfect-rectangle) |
 | [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
@@ -447,6 +449,7 @@
 | [0062-unique-paths](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0292-nim-game) |
@@ -902,6 +905,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0149-max-points-on-a-line) |
 | [0391-perfect-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0836-rectangle-overlap) |
@@ -1121,4 +1125,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0146-lru-cache) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
