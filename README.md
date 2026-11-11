@@ -138,6 +138,7 @@
 | [0088-merge-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0287-find-the-duplicate-number) |
 | [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
@@ -155,6 +156,7 @@
 | [0056-merge-intervals](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0220-contains-duplicate-iii) |
@@ -320,6 +322,7 @@
 | [0141-linked-list-cycle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
 |  |
@@ -399,6 +402,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0973-k-closest-points-to-origin) |
@@ -424,6 +428,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
