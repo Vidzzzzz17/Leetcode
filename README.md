@@ -196,6 +196,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0202-happy-number) |
 | [0391-perfect-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0391-perfect-rectangle) |
 | [0519-random-flip-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0519-random-flip-matrix) |
@@ -316,6 +317,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
 |  |
@@ -1111,4 +1113,12 @@
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
