@@ -50,6 +50,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0220-contains-duplicate-iii) |
@@ -444,6 +445,7 @@
 | [0062-unique-paths](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0292-nim-game) |
 | [0391-perfect-rectangle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0391-perfect-rectangle) |
@@ -558,6 +560,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0921-minimum-add-to-make-parentheses-valid) |
