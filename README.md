@@ -53,6 +53,7 @@
 | [0149-max-points-on-a-line](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0215-kth-largest-element-in-an-array) |
@@ -599,6 +600,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0287-find-the-duplicate-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0497-random-point-in-non-overlapping-rectangles) |
