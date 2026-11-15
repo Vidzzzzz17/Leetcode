@@ -576,6 +576,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1136,6 +1137,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
