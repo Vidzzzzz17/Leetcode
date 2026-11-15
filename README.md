@@ -142,6 +142,7 @@
 | [0141-linked-list-cycle](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0287-find-the-duplicate-number) |
 | [1755-closest-subsequence-sum](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1755-closest-subsequence-sum) |
@@ -252,6 +253,7 @@
 | [0097-interleaving-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0332-reconstruct-itinerary) |
