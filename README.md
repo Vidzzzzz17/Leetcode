@@ -281,6 +281,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -729,6 +730,7 @@
 | [0059-spiral-matrix-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0068-text-justification) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
