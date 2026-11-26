@@ -130,6 +130,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -235,6 +236,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -621,6 +623,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3934-smallest-unique-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -798,6 +801,7 @@
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -808,6 +812,7 @@
 | [0214-shortest-palindrome](https://github.com/viditpvttttt/desktop-tutorial/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3934-smallest-unique-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -1140,6 +1145,7 @@
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/viditpvttttt/desktop-tutorial/tree/master/1044-longest-duplicate-substring) |
+| [3934-smallest-unique-subarray](https://github.com/viditpvttttt/desktop-tutorial/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Automaton
 |  |
 | ------- |
